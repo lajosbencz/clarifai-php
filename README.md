@@ -1,2 +1,2 @@
 # clarifai-php
-PHP implementation of Clarifai API
+PHP implementation of ClarifAI API

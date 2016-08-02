@@ -1,0 +1,23 @@
+{
+    "name": "lajosbencz/clarifai-php",
+    "description": "PHP implementation of Clarifai API",
+    "minimum-stability": "stable",
+    "license": "GPL3",
+    "authors": [
+        {
+            "name": "Lajos Bencz",
+            "email": "lazos@lazos.me"
+        }
+    ],
+    "require": {
+        "php": ">=5.6"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "@stable"
+    },
+    "autoload": {
+        "psr-4": {
+            "Clarifai\\": "src/"
+        }
+    }
+}
